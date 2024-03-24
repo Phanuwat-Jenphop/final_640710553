@@ -22,6 +22,7 @@ class MyTextField extends StatelessWidget {
         filled: true,
         fillColor: Colors.white,
         hintText: hintText,
+       
         contentPadding: const EdgeInsets.only(
           left: 16.0,
           bottom: 12.0,
